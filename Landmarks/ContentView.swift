@@ -12,7 +12,8 @@ struct ContentView: View {
         Text("Turtle Rock")
             .font(.title)
             .foregroundColor(.red)
-            
+        Text("Hello bang")
+            .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
     }
 }
 
