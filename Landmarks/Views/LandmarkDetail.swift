@@ -8,6 +8,9 @@
 import SwiftUI
 
 struct LandmarkDetail: View {
+    
+    var landmark: Landmark
+    
     var body: some View {
         VStack {
                     MapView()
