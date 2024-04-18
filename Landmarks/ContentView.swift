@@ -16,6 +16,8 @@ struct ContentView: View {
             .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
         Text("Tambah bro")
             .foregroundColor(.pink)
+        Text("Commit empat")
+            .foregroundColor(.green)
     }
 }
 
